@@ -1,6 +1,8 @@
 # GMML
 This repository is the Python implementation of paper _"[Precoding with Linear-Scaling Complexity in Massive MIMO DFRC Systems](https://ieeexplore.ieee.org/abstract/document/11520950)"_, which has been accepted by _IEEE Transactions on Vehicular Technology 2026_
 
+We achieved precoding with low complexity in Massive MIMO  DFRC systems.
+
 ## Reference
 Should you find this work beneficial, **kindly grant it a star**!
 
